@@ -1,0 +1,14 @@
+1. webpack
+  babel
+  scss
+  eslint
+  dev mode
+    dev server sourceMaps eslint
+  prod mode
+    minified js css
+2. git
+    Production
+      1.0.0
+    Development
+      1.0.0
+      
